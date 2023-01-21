@@ -23,6 +23,5 @@
    - see the [checklist template](https://github.com/aloutfi/twitter_to_mastodon/blob/main/checklist_template.md)
    - `cp checklist_template.md checklist.md`
 
-
-
-See my [Mastodon Migration GitHub List](https://github.com/stars/aloutfi/lists/mastodon-migration)
+6. What is some cool tech built around mastodon?
+   - See my [Mastodon Migration GitHub List](https://github.com/stars/aloutfi/lists/mastodon-migration)
