@@ -1,4 +1,4 @@
-# Migrating from Twitter to Mastodon
+# Migrating from Twitter to Mastodon, a developer's guide
 
 1. [WTF is Mastodon?](https://docs.joinmastodon.org/) 
 
