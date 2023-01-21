@@ -22,3 +22,7 @@
 
    - disseminating my new handle to followers on Twitter
    - As my followers join Mastodon
+
+
+
+See my [Mastodon Migration GitHub List](https://github.com/stars/aloutfi/lists/mastodon-migration)
