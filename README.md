@@ -1,5 +1,7 @@
 # Migrating from Twitter to Mastodon, a developer's guide
 
+If you are longtime Twitter user like me, you probably have some questions:
+
 1. [WTF is Mastodon?](https://docs.joinmastodon.org/) 
 2. How do I choose my server?
 
