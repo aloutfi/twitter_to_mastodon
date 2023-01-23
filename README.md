@@ -12,7 +12,7 @@ It is expected that Twitter will continue to monetize its functionality at the e
 
 My primary use case of Twitter has always been discovering new techniques, tools, platforms, languages, frameworks, and trends within the open-source community. If these conversations happen in places other than Twitter, it is in my best interest to participate in them.
 
-At the time of writing this, the argument of needing to decide between Twitter or Mastodon is a false dichotomy. Twitter operates at a much larger scale and is its own class of supersystems.  Further analysis will need to be done on the health of Twitter's user base and whether there is a trend of exiting Chapel Perilous.
+At the time of writing this, the argument of needing to decide between Twitter or Mastodon is a false dichotomy. Twitter operates at a much larger scale and is in its own class of supersystems.  Further analysis will need to be done on the health of Twitter's user base and whether there is a trend of exiting Chapel Perilous.
 
 This collection of scribbles represents the ongoing body of work and research into the viability of Mastadon as a platform to replace my primary use case of Twitter.
 
