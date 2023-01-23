@@ -4,7 +4,7 @@
 
 ## Rationale
 
-The open-source software community has been a cornerstone of the Twitter community since the company's inception. Twitter's infrastructure & operations rely on many systems that benefit or depend on open-source. 
+The open-source software community has been a cornerstone of Twitter's appeal since the company's inception. Twitter's infrastructure & operations rely on many systems that benefit or depend on open-source. 
 
 Twitter as a platform is changing. Their recent reversal of 3rd party client support represents a paradigmatical shift in policy that does not favor open-source software. It was a slap in the face to the developers who created & maintained these clients and the community that supported them.
 
