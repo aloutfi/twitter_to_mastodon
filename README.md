@@ -18,7 +18,7 @@ This collection of scribbles represents the ongoing body of work and research in
 
 ## Process
 
-If you are longtime Twitter user like me, you probably have some questions:
+If you are a longtime Twitter user like me, you probably have some questions:
 
 1. [WTF is Mastodon?](https://docs.joinmastodon.org/) 
 2. How do I choose my server?
